@@ -1,9 +1,7 @@
-# Weather_API_webpage
+# Weather_API_webpage - Web Visualization Dashboard (Latitude)
 HTML and CSS
 
-Submission: https://github.com/fionampg/Weather_API_webpage
-
-# Web Visualization Dashboard (Latitude)
+LINK: https://github.com/fionampg/Weather_API_webpage
 
 ## Latitude - Latitude Analysis Dashboard with Attitude
 
